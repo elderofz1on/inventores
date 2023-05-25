@@ -268,7 +268,8 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-25-2<br>
 💡 https://github.com/elderofz1on/solucao-25-3<br>
 
-## 🗂 Dragão Chinês
+## 🗂 Dragão Chinês - Projeto Bônus
+📺 https://www.instagram.com/reel/CYrPp5dhnly/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
 💡 https://github.com/elderofz1on/solucao-2-2<br>
 📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
 
