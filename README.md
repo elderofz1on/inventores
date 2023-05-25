@@ -12,10 +12,11 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ![makecode03]([makecode03.png](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
 5. Agora é só abrir o projeto importado e se divertir.
 
+## 🔽 Download dos CARDS (PDF)
+### 📝 PDF´s
 [📁 Cards - Parte 01 - PDF](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte1.pdf)<br>
 [📁 Cards - Parte 02 - PDF](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte2.pdf)<br>
 [📁 Cards - Parte 03 - PDF](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte3.pdf)<br>
-
 
 ## 🗂 Card 01 - exibir motivos geométricos
 ### ❓ Desafios<br>
