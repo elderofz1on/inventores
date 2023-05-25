@@ -17,7 +17,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 [📁 Cards - Parte 03 - PDF](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte3.pdf)<br>
 
 
-## 🗂 Card 01
+## 🗂 Card 01 - exibir motivos geométricos
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-1-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-1-2<br>
@@ -27,7 +27,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-1-2<br>
 💡 https://github.com/elderofz1on/solucao-1-3<br>
 
-## 🗂 Card 02 
+## 🗂 Card 02 - detectar pressionamento de botões
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-2-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-2-2<br>
@@ -37,7 +37,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-2-2<br>
 💡 https://github.com/elderofz1on/solucao-2-3<br>
 
-## 🗂 Card 03 
+## 🗂 Card 03 - acionamento de matriz de LED´s a partir dos botões
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-3-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-3-2<br>
@@ -47,7 +47,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-3-2<br>
 💡 https://github.com/elderofz1on/solucao-3-3<br>
 
-## 🗂 Card 04 
+## 🗂 Card 04 - explorando o sensor de temperatura
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-4-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-4-2<br>
@@ -57,7 +57,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-4-2<br>
 💡 https://github.com/elderofz1on/solucao-4-3<br>
 
-## 🗂 Card 05 
+## 🗂 Card 05 - explorando o sensor de luminosidade
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-5-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-5-2<br>
@@ -67,7 +67,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-5-2<br>
 💡 https://github.com/elderofz1on/solucao-5-3<br>
 
-## 🗂 Card 06 
+## 🗂 Card 06 - explorando o acelerômetro
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-6-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-6-2<br>
@@ -77,7 +77,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-6-2<br>
 💡 https://github.com/elderofz1on/solucao-6-3<br>
 
-## 🗂 Card 07 
+## 🗂 Card 07 - bússola
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-7-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-7-2<br>
@@ -87,7 +87,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-7-2<br>
 💡 https://github.com/elderofz1on/solucao-7-3<br>
 
-## 🗂 Card 08 
+## 🗂 Card 08 - explorando a comunicação via rádio
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-8-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-8-2<br>
@@ -97,7 +97,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-8-2<br>
 💡 https://github.com/elderofz1on/solucao-8-3<br>
 
-## 🗂 Card 09 
+## 🗂 Card 09 - explorando componentes externos - LED
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-9-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-9-2<br>
@@ -107,7 +107,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-9-2<br>
 💡 https://github.com/elderofz1on/solucao-9-3<br>
 
-## 🗂 Card 10 
+## 🗂 Card 10 - explorando componentes externos - push-button
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-10-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-10-2<br>
@@ -117,7 +117,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-10-2<br>
 💡 https://github.com/elderofz1on/solucao-10-3<br>
 
-## 🗂 Card 11
+## 🗂 Card 11 - explorando componentes externos - LDR
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-11-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-11-2<br>
@@ -127,7 +127,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-11-2<br>
 💡 https://github.com/elderofz1on/solucao-11-3<br>
 
-## 🗂 Card 12 
+## 🗂 Card 12 - - explorando componentes externos - Sensor ultrassônico - HC-SR04
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-12-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-12-2<br>
@@ -137,7 +137,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-12-2<br>
 💡 https://github.com/elderofz1on/solucao-12-3<br>
 
-## 🗂 Card 13 
+## 🗂 Card 13 - explorando componentes externos - Alto falante
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-13-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-13-2<br>
@@ -147,7 +147,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-13-2<br>
 💡 https://github.com/elderofz1on/solucao-13-3<br>
 
-## 🗂 Card 14 
+## 🗂 Card 14 - - explorando componentes externos - Potenciômetro
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-14-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-14-2<br>
@@ -157,7 +157,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-14-2<br>
 💡 https://github.com/elderofz1on/solucao-14-3<br>
 
-## 🗂 Card 15 
+## 🗂 Card 15 - construindo um dimmer
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-15-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-15-2<br>
@@ -167,7 +167,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-15-2<br>
 💡 https://github.com/elderofz1on/solucao-15-3<br>
 
-## 🗂 Card 16 
+## 🗂 Card 16 - controlando o motor de um dispositivo de ventição
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-16-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-16-2<br>
@@ -177,7 +177,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-16-2<br>
 💡 https://github.com/elderofz1on/solucao-16-3<br>
 
-## 🗂 Card 17 
+## 🗂 Card 17 - medindo a intensidade do vento
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-17-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-17-2<br>
@@ -187,7 +187,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-17-2<br>
 💡 https://github.com/elderofz1on/solucao-17-3<br>
 
-## 🗂 Card 18 
+## 🗂 Card 18 - construindo uma luminária RGB
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-18-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-18-2<br>
@@ -197,7 +197,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-18-2<br>
 💡 https://github.com/elderofz1on/solucao-18-3<br>
 
-## 🗂 Card 19 
+## 🗂 Card 19 - copo de luz mágica
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-19-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-19-2<br>
@@ -207,7 +207,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-19-2<br>
 💡 https://github.com/elderofz1on/solucao-19-3<br>
 
-## 🗂 Card 20 
+## 🗂 Card 20 - estação metereológica
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-20-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-20-2<br>
@@ -217,7 +217,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-20-2<br>
 💡 https://github.com/elderofz1on/solucao-20-3<br>
 
-## 🗂 Card 21 
+## 🗂 Card 21 - goleiro 
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-21-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-21-2<br>
@@ -227,7 +227,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-21-2<br>
 💡 https://github.com/elderofz1on/solucao-21-3<br>
 
-## 🗂 Card 22 
+## 🗂 Card 22 - construindo um relógio 
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-22-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-22-2<br>
@@ -237,7 +237,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-22-2<br>
 💡 https://github.com/elderofz1on/solucao-22-3<br>
 
-## 🗂 Card 23 
+## 🗂 Card 23 - dados
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-23-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-23-2<br>
@@ -247,7 +247,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-23-2<br>
 💡 https://github.com/elderofz1on/solucao-23-3<br>
 
-## 🗂 Card 24 
+## 🗂 Card 24 - interruptor por som
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-24-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-24-2<br>
@@ -257,7 +257,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-24-2<br>
 💡 https://github.com/elderofz1on/solucao-24-3<br>
 
-## 🗂 Card 25 
+## 🗂 Card 25 - roleta eletrônica
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-25-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-25-2<br>
