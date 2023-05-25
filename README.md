@@ -128,7 +128,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-11-2<br>
 💡 https://github.com/elderofz1on/solucao-11-3<br>
 
-## 🗂 Card 12 - - explorando componentes externos - Sensor ultrassônico - HC-SR04
+## 🗂 Card 12 - explorando componentes externos - Sensor ultrassônico - HC-SR04
 ### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-12-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-12-2<br>
@@ -237,6 +237,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-22-1<br>
 💡 https://github.com/elderofz1on/solucao-22-2<br>
 💡 https://github.com/elderofz1on/solucao-22-3<br>
+### 📁 Arquivos extras<br>
 📁 [Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf)<br>
 
 ## 🗂 Card 23 - dados
@@ -272,6 +273,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ## 🗂 Dragão Chinês - Projeto Bônus
 📺 https://www.instagram.com/reel/CYrPp5dhnly/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== <br>
 💡 https://github.com/elderofz1on/solucao-2-2<br>
+### 📁 Arquivos extras<br>
 📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf)<br>
 📁 [STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip)<br>
 Suporte para motor de passo (28BYJ-48) (compatível com peças Lego.) <br>
