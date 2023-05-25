@@ -12,6 +12,10 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ![makecode03]([makecode03.png](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
 5. Agora é só abrir o projeto importado e se divertir.
 
+[🗂 Cards - Parte 01](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte1.pdf)
+[🗂 Cards - Parte 02](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte2.pdf)
+[🗂 Cards - Parte 03](https://github.com/elderofz1on/inventores/blob/main/files/cards-1NV3NT0R35-parte3.pdf)
+
 ## 🗂 Card 01
 ### ❓Desafios<br>
 💻 https://github.com/elderofz1on/desafio-1-1<br>
@@ -33,6 +37,27 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💻 https://github.com/elderofz1on/solucao-2-2<br>
 
 
+## 🗂 Dragão Chinês
+💻 https://github.com/elderofz1on/solucao-2-2<br>
+[Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
+
 ## 🎞 Video montagem<br>
 📺 
+
+## 🗂 Files
+### ❓Arquivos extras para os projetos<br>
+[Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf) 
+
+[STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip) 
+Suporte para motor de passo (28BYJ-48) (compatível com peças Lego.) <br>
+O arquivo compactado contém três peças:<br>
+– dois suportes para o motor de passo, com uma pequena variação de tamanho (altura);<br>
+– um braço para ser acoplado ao eixo do motor.<br>
+Dica: caso o encaixe com as peças fique menor, você poderá ferver um pouco de água e colocar por alguns segundos o a peça impressa e encaixar no motor ou mesmo na no pino Lego. Não é necessário mergulhar a peça  3D toda, apenas o local onde será feito o encaixe. Cuidado para não deixar tempo demais na água quente, pode deformar a peça impressa, o melhor é ir aquecendo e ajustando aos poucos.<br>
+
+
+
+
+
+
 
