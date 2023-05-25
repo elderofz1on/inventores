@@ -18,38 +18,38 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 
 
 ## 🗂 Card 01
-### ❓Desafios<br>
+### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-1-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-1-2<br>
 ⚡️ https://github.com/elderofz1on/desafio-1-3<br>
-### 🆘Soluções<br>
+### 🆘 Soluções<br>
 💡 https://github.com/elderofz1on/solucao-1-1<br>
 💡 https://github.com/elderofz1on/solucao-1-2<br>
 💡 https://github.com/elderofz1on/solucao-1-2<br>
 
 ## 🗂 Card 02 
-### ❓Desafios<br>
+### ❓ Desafios<br>
 ⚡️ https://github.com/elderofz1on/desafio-2-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-2-2<br>
 ⚡️ https://github.com/elderofz1on/desafio-2-3<br>
-### 🆘Soluções<br>
+### 🆘 Soluções<br>
 💡 https://github.com/elderofz1on/solucao-2-1<br>
 💡 https://github.com/elderofz1on/solucao-2-2<br>
 💡 https://github.com/elderofz1on/solucao-2-2<br>
 
 
 ## 🗂 Dragão Chinês
-💻 https://github.com/elderofz1on/solucao-2-2<br>
-[Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
+💡 https://github.com/elderofz1on/solucao-2-2<br>
+📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
 
 ## 🎞 Video montagem<br>
 📺 
 
 ## 🗂 Files
 ### ❓Arquivos extras para os projetos<br>
-[Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf) 
+📁 [Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf) 
 
-[STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip) 
+📁 [STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip) 
 Suporte para motor de passo (28BYJ-48) (compatível com peças Lego.) <br>
 O arquivo compactado contém três peças:<br>
 – dois suportes para o motor de passo, com uma pequena variação de tamanho (altura);<br>
