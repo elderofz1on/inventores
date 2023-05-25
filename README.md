@@ -9,7 +9,7 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 3. Escolha a opção **Importar URL...**
 ![makecode02](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode02.png)
 4. Copie e cole a URL do projeto que você quer importar, como demonstrado na figura.
-![makecode03]([makecode03.png](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
+![makecode03](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
 5. Agora é só abrir o projeto importado e se divertir.
 
 ## 🔽 Download dos CARDS (PDF)
