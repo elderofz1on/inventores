@@ -19,23 +19,23 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 
 ## 🗂 Card 01
 ### ❓Desafios<br>
-💻 https://github.com/elderofz1on/desafio-1-1<br>
-💻 https://github.com/elderofz1on/desafio-1-2<br>
-💻 https://github.com/elderofz1on/desafio-1-3<br>
-### 💡Soluções<br>
-💻 https://github.com/elderofz1on/solucao-1-1<br>
-💻 https://github.com/elderofz1on/solucao-1-2<br>
-💻 https://github.com/elderofz1on/solucao-1-2<br>
+⚡️ https://github.com/elderofz1on/desafio-1-1<br>
+⚡️ https://github.com/elderofz1on/desafio-1-2<br>
+⚡️ https://github.com/elderofz1on/desafio-1-3<br>
+### 🆘Soluções<br>
+💡 https://github.com/elderofz1on/solucao-1-1<br>
+💡 https://github.com/elderofz1on/solucao-1-2<br>
+💡 https://github.com/elderofz1on/solucao-1-2<br>
 
 ## 🗂 Card 02 
 ### ❓Desafios<br>
-💻 https://github.com/elderofz1on/desafio-2-1<br>
-💻 https://github.com/elderofz1on/desafio-2-2<br>
-💻 https://github.com/elderofz1on/desafio-2-3<br>
-### 💡Soluções<br>
-💻 https://github.com/elderofz1on/solucao-2-1<br>
-💻 https://github.com/elderofz1on/solucao-2-2<br>
-💻 https://github.com/elderofz1on/solucao-2-2<br>
+⚡️ https://github.com/elderofz1on/desafio-2-1<br>
+⚡️ https://github.com/elderofz1on/desafio-2-2<br>
+⚡️ https://github.com/elderofz1on/desafio-2-3<br>
+### 🆘Soluções<br>
+💡 https://github.com/elderofz1on/solucao-2-1<br>
+💡 https://github.com/elderofz1on/solucao-2-2<br>
+💡 https://github.com/elderofz1on/solucao-2-2<br>
 
 
 ## 🗂 Dragão Chinês
