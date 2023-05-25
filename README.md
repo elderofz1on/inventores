@@ -301,7 +301,7 @@ Dica: caso o encaixe com as peças fique menor, você poderá ferver um pouco de
 📺 [Montagem 25](https://youtu.be/lydrkfHHh3Y)<br>
 
 ## ⚙️ Componentes do kit Inventores<br>
-⚙️ 1x Placa de Expansão hack:bit (caso você não tenha nossa placa de expansão, você poderá usar outras placas para as montagens com pouca ou nenhuma modificação)<br>
+⚙️ 1x Placa de Expansão hack:bit (caso você não tenha nossa placa de expansão **hack:bit**, você poderá utilizar outra placa de sua preferência para as montagens, com pouca ou nenhuma modificação)<br>
 ⚙️ 1x Protoboard de 400 pontos<br>
 ⚙️ 1x Soquete para duas baterias N18650 (não acompanha as baterias)<br>
 ⚙️ 1x Display OLED 0,96”<br>
