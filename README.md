@@ -1,4 +1,4 @@
-## Inventores
+## INV3NT0R35
 Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BBC micro:bit &amp; hack:bit
 
 ## Importando os projetos
