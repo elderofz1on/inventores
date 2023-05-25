@@ -25,7 +25,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ### 🆘 Soluções<br>
 💡 https://github.com/elderofz1on/solucao-1-1<br>
 💡 https://github.com/elderofz1on/solucao-1-2<br>
-💡 https://github.com/elderofz1on/solucao-1-2<br>
+💡 https://github.com/elderofz1on/solucao-1-3<br>
 
 ## 🗂 Card 02 
 ### ❓ Desafios<br>
@@ -35,8 +35,237 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ### 🆘 Soluções<br>
 💡 https://github.com/elderofz1on/solucao-2-1<br>
 💡 https://github.com/elderofz1on/solucao-2-2<br>
-💡 https://github.com/elderofz1on/solucao-2-2<br>
+💡 https://github.com/elderofz1on/solucao-2-3<br>
 
+## 🗂 Card 03 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-3-1<br>
+⚡️ https://github.com/elderofz1on/desafio-3-2<br>
+⚡️ https://github.com/elderofz1on/desafio-3-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-3-1<br>
+💡 https://github.com/elderofz1on/solucao-3-2<br>
+💡 https://github.com/elderofz1on/solucao-3-3<br>
+
+## 🗂 Card 04 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-4-1<br>
+⚡️ https://github.com/elderofz1on/desafio-4-2<br>
+⚡️ https://github.com/elderofz1on/desafio-4-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-4-1<br>
+💡 https://github.com/elderofz1on/solucao-4-2<br>
+💡 https://github.com/elderofz1on/solucao-4-3<br>
+
+## 🗂 Card 05 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-5-1<br>
+⚡️ https://github.com/elderofz1on/desafio-5-2<br>
+⚡️ https://github.com/elderofz1on/desafio-5-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-5-1<br>
+💡 https://github.com/elderofz1on/solucao-5-2<br>
+💡 https://github.com/elderofz1on/solucao-5-3<br>
+
+## 🗂 Card 06 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-6-1<br>
+⚡️ https://github.com/elderofz1on/desafio-6-2<br>
+⚡️ https://github.com/elderofz1on/desafio-6-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-6-1<br>
+💡 https://github.com/elderofz1on/solucao-6-2<br>
+💡 https://github.com/elderofz1on/solucao-6-3<br>
+
+## 🗂 Card 07 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-7-1<br>
+⚡️ https://github.com/elderofz1on/desafio-7-2<br>
+⚡️ https://github.com/elderofz1on/desafio-7-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-7-1<br>
+💡 https://github.com/elderofz1on/solucao-7-2<br>
+💡 https://github.com/elderofz1on/solucao-7-3<br>
+
+## 🗂 Card 08 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-8-1<br>
+⚡️ https://github.com/elderofz1on/desafio-8-2<br>
+⚡️ https://github.com/elderofz1on/desafio-8-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-8-1<br>
+💡 https://github.com/elderofz1on/solucao-8-2<br>
+💡 https://github.com/elderofz1on/solucao-8-3<br>
+
+## 🗂 Card 09 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-9-1<br>
+⚡️ https://github.com/elderofz1on/desafio-9-2<br>
+⚡️ https://github.com/elderofz1on/desafio-9-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-9-1<br>
+💡 https://github.com/elderofz1on/solucao-9-2<br>
+💡 https://github.com/elderofz1on/solucao-9-3<br>
+
+## 🗂 Card 10 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-10-1<br>
+⚡️ https://github.com/elderofz1on/desafio-10-2<br>
+⚡️ https://github.com/elderofz1on/desafio-10-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-10-1<br>
+💡 https://github.com/elderofz1on/solucao-10-2<br>
+💡 https://github.com/elderofz1on/solucao-10-3<br>
+
+## 🗂 Card 11
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-11-1<br>
+⚡️ https://github.com/elderofz1on/desafio-11-2<br>
+⚡️ https://github.com/elderofz1on/desafio-11-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-11-1<br>
+💡 https://github.com/elderofz1on/solucao-11-2<br>
+💡 https://github.com/elderofz1on/solucao-11-3<br>
+
+## 🗂 Card 12 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-12-1<br>
+⚡️ https://github.com/elderofz1on/desafio-12-2<br>
+⚡️ https://github.com/elderofz1on/desafio-12-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-12-1<br>
+💡 https://github.com/elderofz1on/solucao-12-2<br>
+💡 https://github.com/elderofz1on/solucao-12-3<br>
+
+## 🗂 Card 13 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-13-1<br>
+⚡️ https://github.com/elderofz1on/desafio-13-2<br>
+⚡️ https://github.com/elderofz1on/desafio-13-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-13-1<br>
+💡 https://github.com/elderofz1on/solucao-13-2<br>
+💡 https://github.com/elderofz1on/solucao-13-3<br>
+
+## 🗂 Card 14 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-14-1<br>
+⚡️ https://github.com/elderofz1on/desafio-14-2<br>
+⚡️ https://github.com/elderofz1on/desafio-14-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-14-1<br>
+💡 https://github.com/elderofz1on/solucao-14-2<br>
+💡 https://github.com/elderofz1on/solucao-14-3<br>
+
+## 🗂 Card 15 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-15-1<br>
+⚡️ https://github.com/elderofz1on/desafio-15-2<br>
+⚡️ https://github.com/elderofz1on/desafio-15-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-15-1<br>
+💡 https://github.com/elderofz1on/solucao-15-2<br>
+💡 https://github.com/elderofz1on/solucao-15-3<br>
+
+## 🗂 Card 16 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-16-1<br>
+⚡️ https://github.com/elderofz1on/desafio-16-2<br>
+⚡️ https://github.com/elderofz1on/desafio-16-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-16-1<br>
+💡 https://github.com/elderofz1on/solucao-16-2<br>
+💡 https://github.com/elderofz1on/solucao-16-3<br>
+
+## 🗂 Card 17 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-17-1<br>
+⚡️ https://github.com/elderofz1on/desafio-17-2<br>
+⚡️ https://github.com/elderofz1on/desafio-17-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-17-1<br>
+💡 https://github.com/elderofz1on/solucao-17-2<br>
+💡 https://github.com/elderofz1on/solucao-17-3<br>
+
+## 🗂 Card 18 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-18-1<br>
+⚡️ https://github.com/elderofz1on/desafio-18-2<br>
+⚡️ https://github.com/elderofz1on/desafio-18-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-18-1<br>
+💡 https://github.com/elderofz1on/solucao-18-2<br>
+💡 https://github.com/elderofz1on/solucao-18-3<br>
+
+## 🗂 Card 19 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-19-1<br>
+⚡️ https://github.com/elderofz1on/desafio-19-2<br>
+⚡️ https://github.com/elderofz1on/desafio-19-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-19-1<br>
+💡 https://github.com/elderofz1on/solucao-19-2<br>
+💡 https://github.com/elderofz1on/solucao-19-3<br>
+
+## 🗂 Card 20 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-20-1<br>
+⚡️ https://github.com/elderofz1on/desafio-20-2<br>
+⚡️ https://github.com/elderofz1on/desafio-20-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-20-1<br>
+💡 https://github.com/elderofz1on/solucao-20-2<br>
+💡 https://github.com/elderofz1on/solucao-20-3<br>
+
+## 🗂 Card 21 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-21-1<br>
+⚡️ https://github.com/elderofz1on/desafio-21-2<br>
+⚡️ https://github.com/elderofz1on/desafio-21-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-21-1<br>
+💡 https://github.com/elderofz1on/solucao-21-2<br>
+💡 https://github.com/elderofz1on/solucao-21-3<br>
+
+## 🗂 Card 22 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-22-1<br>
+⚡️ https://github.com/elderofz1on/desafio-22-2<br>
+⚡️ https://github.com/elderofz1on/desafio-22-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-22-1<br>
+💡 https://github.com/elderofz1on/solucao-22-2<br>
+💡 https://github.com/elderofz1on/solucao-22-3<br>
+
+## 🗂 Card 23 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-23-1<br>
+⚡️ https://github.com/elderofz1on/desafio-23-2<br>
+⚡️ https://github.com/elderofz1on/desafio-23-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-23-1<br>
+💡 https://github.com/elderofz1on/solucao-23-2<br>
+💡 https://github.com/elderofz1on/solucao-23-3<br>
+
+## 🗂 Card 24 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-24-1<br>
+⚡️ https://github.com/elderofz1on/desafio-24-2<br>
+⚡️ https://github.com/elderofz1on/desafio-24-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-24-1<br>
+💡 https://github.com/elderofz1on/solucao-24-2<br>
+💡 https://github.com/elderofz1on/solucao-24-3<br>
+
+## 🗂 Card 25 
+### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-25-1<br>
+⚡️ https://github.com/elderofz1on/desafio-25-2<br>
+⚡️ https://github.com/elderofz1on/desafio-25-3<br>
+### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-25-1<br>
+💡 https://github.com/elderofz1on/solucao-25-2<br>
+💡 https://github.com/elderofz1on/solucao-25-3<br>
 
 ## 🗂 Dragão Chinês
 💡 https://github.com/elderofz1on/solucao-2-2<br>
