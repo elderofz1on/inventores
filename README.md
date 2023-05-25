@@ -13,17 +13,28 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 5. Agora é só abrir o projeto importado e se divertir.
 
 ## "Card 01" 
-###❓Desafios
+###❓Desafios<br>
 💻 https://github.com/elderofz1on/desafio-1-1<br>
 💻 https://github.com/elderofz1on/desafio-1-2<br>
 💻 https://github.com/elderofz1on/desafio-1-3<br>
+###💡Soluções<br>
+💻 https://github.com/elderofz1on/desafio-1-1<br>
+💻 https://github.com/elderofz1on/desafio-1-2<br>
+💻 https://github.com/elderofz1on/desafio-1-2<br>
+
+## "Card 02" 
+###❓Desafios<br>
+💻 https://github.com/elderofz1on/desafio-2-1<br>
+💻 https://github.com/elderofz1on/desafio-2-2<br>
+💻 https://github.com/elderofz1on/desafio-2-3<br>
+###💡Soluções<br>
 💻 https://github.com/elderofz1on/desafio-2-1<br>
 💻 https://github.com/elderofz1on/desafio-2-2<br>
 💻 https://github.com/elderofz1on/desafio-2-2<br>
 
 
-###💡Soluções
+###💡Soluções<br>
 💻 https://github.com/elderofz1on/solucao-25-3<br>
 
-### 🎞 Video montagem
+### 🎞 Video montagem<br>
 
