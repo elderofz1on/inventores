@@ -273,7 +273,22 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
 
 ## 🎞 Video montagem<br>
-📺 
+📺 [Montagem 09](https://youtu.be/5e1n1SyE8io)<br>
+📺 [Montagem 10](https://youtu.be/91PKQ62SlD4)<br>
+📺 [Montagem 11](https://youtu.be/iSrdf_3Mu_4)<br>
+📺 [Montagem 12](https://youtu.be/dZh0hg_Jb2g)<br>
+📺 [Montagem 13](https://youtu.be/I9GJFHzZq2c)<br>
+📺 [Montagem 14](https://youtu.be/_uV1rOy9kBg)<br>
+📺 [Montagem 15](https://youtu.be/BSy0c11BTko)<br>
+📺 [Montagem 16](https://youtu.be/Yji7zKgW6PA)<br>
+📺 [Montagem 17](https://youtu.be/hQsR0xiHKgQ)<br>
+📺 [Montagem 18](https://youtu.be/YNDV0iRkY4E)<br>
+📺 [Montagem 20](https://youtu.be/R0hlwkSiRvA)<br>
+📺 [Montagem 21](https://youtu.be/9CtZyBFeySI)<br>
+📺 [Montagem 22](https://youtu.be/q8N1e9CKQ-w)<br>
+📺 [Montagem 23](https://youtu.be/Ay10_3ovDQY)<br>
+📺 [Montagem 24](https://youtu.be/ag2iEpVq96M)<br>
+📺 [Montagem 25](https://youtu.be/lydrkfHHh3Y)<br>
 
 ## 🗂 Files
 ### ❓Arquivos extras para os projetos<br>
