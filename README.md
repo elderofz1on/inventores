@@ -299,3 +299,37 @@ Dica: caso o encaixe com as peças fique menor, você poderá ferver um pouco de
 📺 [Montagem 23](https://youtu.be/Ay10_3ovDQY)<br>
 📺 [Montagem 24](https://youtu.be/ag2iEpVq96M)<br>
 📺 [Montagem 25](https://youtu.be/lydrkfHHh3Y)<br>
+
+## ⚙️ Componentes do kit Inventores<br>
+⚙️ 1x Placa de Expansão hack:bit (caso você não tenha nossa placa de expansão, você poderá usar outras placas para as montagens com pouca ou nenhuma modificação)<br>
+⚙️ 1x Protoboard de 400 pontos<br>
+⚙️ 1x Soquete para duas baterias N18650 (não acompanha as baterias)<br>
+⚙️ 1x Display OLED 0,96”<br>
+⚙️ 1x Transistor NPN – BC 547 ou S8050<br>
+⚙️ 20x LEDs difusos (5x vermelho, 5x verde, 5x amarelo, 5x azul)<br>
+⚙️ 5 LEDs de alto brilho de cores diversas<br>
+⚙️ 2x LEDs RGB Cátodo<br>
+⚙️ 1x Anel de LED x12 WS2812 5050<br>
+⚙️ 1x Sensor Óptico Reflexivo TCRT5000<br>
+⚙️ 1x Buzzer<br>
+⚙️ 2x Sensores de luminosidade – LDR<br>
+⚙️ 10x Resistores de 220 ohms<br>
+⚙️ 10x Resistores de 1k ohms<br>
+⚙️ 10x Resistores de 2,2k ohms<br>
+⚙️ 10x Resistores de 10k ohms<br>
+⚙️ 1x potenciômetro 10K ohms (linear)<br>
+⚙️ 1x knob para potenciômetro<br>
+⚙️ 4x Botões Push-Button<br>
+⚙️ 4x Capas coloridas para botões<br>
+⚙️ 1x Sensor DHT11 – Temperatura e Umidade<br>
+⚙️ 2x SW-200D – Sensor de inclinação e vibração (TILT)<br>
+⚙️ 1x sensor de distância ultrassônico HC-SR04<br>
+⚙️ 1x módulo relê – 1 Canal 5V – sem acoplador óptico<br>
+⚙️ 1x micro servo motor MG90S<br>
+⚙️ 1x mini motor DC 3-6V sem redução<br>
+⚙️ 1x micro hélice (fan)<br>
+⚙️ 2x motor de passo 28BYJ-48<br>
+⚙️ 20x Cabo macho x macho de 20cm<br>
+⚙️ 20x Cabo macho x fêmea de 20cm<br>
+⚙️ 20x Cabo fêmea x fêmea de 20cm<br>
+⚙️ 20x jumper macho x macho (tamanhos e cores variados)<br>
