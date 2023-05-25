@@ -1,5 +1,5 @@
 ## INV3NT0R35
-Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** - BBC micro:bit &amp; hack:bit
+Repositório de projetos apresentados nos cards do **Kit Inventores da Hackids** - BBC micro:bit &amp; hack:bit
 
 ## Importando os projetos
 ##### Você pode importar os projetos abaixo para seu ambiente no [Makecode](https://makecode.microbit.org/), é bem simples.
