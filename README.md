@@ -12,7 +12,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 ![makecode03]([makecode03.png](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
 5. Agora é só abrir o projeto importado e se divertir.
 
-## "Card 01" 
+##🗂 Card 01
 ###❓Desafios<br>
 💻 https://github.com/elderofz1on/desafio-1-1<br>
 💻 https://github.com/elderofz1on/desafio-1-2<br>
@@ -22,7 +22,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💻 https://github.com/elderofz1on/solucao-1-2<br>
 💻 https://github.com/elderofz1on/solucao-1-2<br>
 
-## "Card 02" 
+##🗂 Card 02 
 ###❓Desafios<br>
 💻 https://github.com/elderofz1on/desafio-2-1<br>
 💻 https://github.com/elderofz1on/desafio-2-2<br>
