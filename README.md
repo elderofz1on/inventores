@@ -43,10 +43,12 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 ⚡️ https://github.com/elderofz1on/desafio-3-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-3-2<br>
 ⚡️ https://github.com/elderofz1on/desafio-3-3<br>
+⚡️ https://github.com/elderofz1on/desafio-3-3b<br>
 ### 🆘 Soluções<br>
 💡 https://github.com/elderofz1on/solucao-3-1<br>
 💡 https://github.com/elderofz1on/solucao-3-2<br>
 💡 https://github.com/elderofz1on/solucao-3-3<br>
+💡 https://github.com/elderofz1on/solucao-3-3b<br>
 
 ## 🗂 Card 04 - explorando o sensor de temperatura
 ### ❓ Desafios<br>
@@ -57,6 +59,7 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 💡 https://github.com/elderofz1on/solucao-4-1<br>
 💡 https://github.com/elderofz1on/solucao-4-2<br>
 💡 https://github.com/elderofz1on/solucao-4-3<br>
+💡 https://github.com/elderofz1on/solucao-4-3b<br>
 
 ## 🗂 Card 05 - explorando o sensor de luminosidade
 ### ❓ Desafios<br>
@@ -90,13 +93,19 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 
 ## 🗂 Card 08 - explorando a comunicação via rádio
 ### ❓ Desafios<br>
-⚡️ https://github.com/elderofz1on/desafio-8-1<br>
-⚡️ https://github.com/elderofz1on/desafio-8-2<br>
-⚡️ https://github.com/elderofz1on/desafio-8-3<br>
+⚡️ https://github.com/elderofz1on/desafio-8-1t<br>
+⚡️ https://github.com/elderofz1on/desafio-8-1r<br>
+⚡️ https://github.com/elderofz1on/desafio-8-2a<br>
+⚡️ https://github.com/elderofz1on/desafio-8-2b<br>
+⚡️ https://github.com/elderofz1on/desafio-8-3t<br>
+⚡️ https://github.com/elderofz1on/desafio-8-3r<br>
 ### 🆘 Soluções<br>
-💡 https://github.com/elderofz1on/solucao-8-1<br>
-💡 https://github.com/elderofz1on/solucao-8-2<br>
-💡 https://github.com/elderofz1on/solucao-8-3<br>
+💡 https://github.com/elderofz1on/solucao-8-1t<br>
+💡 https://github.com/elderofz1on/solucao-8-1r<br>
+💡 https://github.com/elderofz1on/solucao-8-2a<br>
+💡 https://github.com/elderofz1on/solucao-8-2b<br>
+💡 https://github.com/elderofz1on/solucao-8-3t<br>
+💡 https://github.com/elderofz1on/solucao-8-3r<br>
 
 ## 🗂 Card 09 - explorando componentes externos - LED
 ### ❓ Desafios<br>
@@ -120,10 +129,12 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 
 ## 🗂 Card 11 - explorando componentes externos - LDR
 ### ❓ Desafios<br>
+⚡️ https://github.com/elderofz1on/desafio-11-0<br>
 ⚡️ https://github.com/elderofz1on/desafio-11-1<br>
 ⚡️ https://github.com/elderofz1on/desafio-11-2<br>
 ⚡️ https://github.com/elderofz1on/desafio-11-3<br>
 ### 🆘 Soluções<br>
+💡 https://github.com/elderofz1on/solucao-11-0<br>
 💡 https://github.com/elderofz1on/solucao-11-1<br>
 💡 https://github.com/elderofz1on/solucao-11-2<br>
 💡 https://github.com/elderofz1on/solucao-11-3<br>
@@ -237,6 +248,7 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 💡 https://github.com/elderofz1on/solucao-22-1<br>
 💡 https://github.com/elderofz1on/solucao-22-2<br>
 💡 https://github.com/elderofz1on/solucao-22-3<br>
+💡 https://github.com/elderofz1on/solucao-22-3b<br>
 ### 📁 Arquivos extras<br>
 📁 [Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf)<br>
 
@@ -272,7 +284,7 @@ Repositório de projetos apresentado nos cards do **Kit Inventores da Hackids** 
 
 ## 🗂 Dragão Chinês - Projeto Bônus
 📺 https://www.instagram.com/reel/CYrPp5dhnly/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== <br>
-💡 https://github.com/elderofz1on/solucao-2-2<br>
+💡 https://github.com/elderofz1on/solucao-26-1-automato-dragao-chines<br>
 ### 📁 Arquivos extras<br>
 📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf)<br>
 📁 [STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip)<br>
