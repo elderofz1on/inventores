@@ -237,6 +237,7 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-22-1<br>
 💡 https://github.com/elderofz1on/solucao-22-2<br>
 💡 https://github.com/elderofz1on/solucao-22-3<br>
+📁 [Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf)<br>
 
 ## 🗂 Card 23 - dados
 ### ❓ Desafios<br>
@@ -269,9 +270,15 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 💡 https://github.com/elderofz1on/solucao-25-3<br>
 
 ## 🗂 Dragão Chinês - Projeto Bônus
-📺 https://www.instagram.com/reel/CYrPp5dhnly/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
+📺 https://www.instagram.com/reel/CYrPp5dhnly/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== <br>
 💡 https://github.com/elderofz1on/solucao-2-2<br>
-📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf) 
+📁 [Dragão chinês](https://github.com/elderofz1on/inventores/blob/main/files/dragao.pdf)<br>
+📁 [STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip)<br>
+Suporte para motor de passo (28BYJ-48) (compatível com peças Lego.) <br>
+O arquivo compactado contém três peças:<br>
+– dois suportes para o motor de passo, com uma pequena variação de tamanho (altura);<br>
+– um braço para ser acoplado ao eixo do motor.<br>
+Dica: caso o encaixe com as peças fique menor, você poderá ferver um pouco de água e colocar por alguns segundos o a peça impressa e encaixar no motor ou mesmo na no pino Lego. Não é necessário mergulhar a peça  3D toda, apenas o local onde será feito o encaixe. Cuidado para não deixar tempo demais na água quente, pode deformar a peça impressa, o melhor é ir aquecendo e ajustando aos poucos.<br>
 
 ## 🎞 Video montagem<br>
 📺 [Montagem 09](https://youtu.be/5e1n1SyE8io)<br>
@@ -290,21 +297,3 @@ Repositório de projetos apresentado nos cards do Kit Inventores da Hackids - BB
 📺 [Montagem 23](https://youtu.be/Ay10_3ovDQY)<br>
 📺 [Montagem 24](https://youtu.be/ag2iEpVq96M)<br>
 📺 [Montagem 25](https://youtu.be/lydrkfHHh3Y)<br>
-
-## 🗂 Files
-### ❓Arquivos extras para os projetos<br>
-📁 [Download do layout do relógio (para imprimir)](https://github.com/elderofz1on/inventores/blob/main/files/clock.pdf) 
-
-📁 [STL - Motor de Passo 28BYJ-48](https://github.com/elderofz1on/inventores/blob/main/files/3D-28BYJ.zip) 
-Suporte para motor de passo (28BYJ-48) (compatível com peças Lego.) <br>
-O arquivo compactado contém três peças:<br>
-– dois suportes para o motor de passo, com uma pequena variação de tamanho (altura);<br>
-– um braço para ser acoplado ao eixo do motor.<br>
-Dica: caso o encaixe com as peças fique menor, você poderá ferver um pouco de água e colocar por alguns segundos o a peça impressa e encaixar no motor ou mesmo na no pino Lego. Não é necessário mergulhar a peça  3D toda, apenas o local onde será feito o encaixe. Cuidado para não deixar tempo demais na água quente, pode deformar a peça impressa, o melhor é ir aquecendo e ajustando aos poucos.<br>
-
-
-
-
-
-
-
